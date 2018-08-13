@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardHappyBirthday</string>
+    <string name="feliz_aniversario_usuario">Feliz Aniversário, Usuário!!</string>
+    <string name="de_quem_envia">de, Quem Envia.</string>
+</resources>
